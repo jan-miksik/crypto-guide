@@ -1,12 +1,12 @@
 # Art and NFT marketplaces
 
-**OpenSea**\
+[**OpenSea** ↗](https://opensea.io)\
 the big fish, marketplace with wide spectrum\
-[https://opensea.io](https://opensea.io/)
 
 
 
-**Foundation**\
+
+[**Foundation** ↗](https://foundation.app/)\
 aim towards art, on Ethereum and Base\
-[https://foundation.app/](https://foundation.app/)
+
 
